@@ -1,0 +1,163 @@
+# Seaborn Practice Problems (30 Total)
+
+# ---------------------
+# EASY (1–10)
+# ---------------------
+
+# problem1_basic_plot.ipynb
+"""
+Create a basic plot using seaborn's default dataset.
+"""
+
+# problem2_scatter_plot.ipynb
+"""
+Create a scatter plot using seaborn.
+"""
+
+# problem3_bar_plot.ipynb
+"""
+Create a bar plot using seaborn.
+"""
+
+# problem4_count_plot.ipynb
+"""
+Create a count plot to show frequency of categories.
+"""
+
+# problem5_histogram.ipynb
+"""
+Create a histogram using seaborn.
+"""
+
+# problem6_box_plot.ipynb
+"""
+Create a box plot to show distribution.
+"""
+
+# problem7_violin_plot.ipynb
+"""
+Create a violin plot.
+"""
+
+# problem8_swarm_plot.ipynb
+"""
+Create a swarm plot.
+"""
+
+# problem9_line_plot.ipynb
+"""
+Create a line plot with confidence intervals.
+"""
+
+# problem10_categorical_plot.ipynb
+"""
+Use catplot to visualize categorical data.
+"""
+
+# ---------------------
+# MEDIUM (11–25)
+# ---------------------
+
+# problem11_pair_plot.ipynb
+"""
+Create a pairplot to explore relationships in a dataset.
+"""
+
+# problem12_heatmap.ipynb
+"""
+Create a heatmap from a correlation matrix.
+"""
+
+# problem13_cluster_map.ipynb
+"""
+Create a clustermap to show clustered heatmap.
+"""
+
+# problem14_facet_grid.ipynb
+"""
+Use FacetGrid to visualize subsets of data.
+"""
+
+# problem15_lmplot.ipynb
+"""
+Create a linear model plot (lmplot).
+"""
+
+# problem16_resid_plot.ipynb
+"""
+Create a residual plot using seaborn.
+"""
+
+# problem17_custom_palette.ipynb
+"""
+Apply a custom color palette to plots.
+"""
+
+# problem18_style_themes.ipynb
+"""
+Apply different seaborn themes (dark, whitegrid, etc.).
+"""
+
+# problem19_titles_labels.ipynb
+"""
+Add titles and axis labels to seaborn plots.
+"""
+
+# problem20_axis_limits.ipynb
+"""
+Set axis limits in seaborn plots.
+"""
+
+# problem21_dodge_hue.ipynb
+"""
+Use hue and dodge to separate data in barplot or boxplot.
+"""
+
+# problem22_sort_categories.ipynb
+"""
+Sort categorical data before plotting.
+"""
+
+# problem23_grouped_barplot.ipynb
+"""
+Create a grouped barplot with hue.
+"""
+
+# problem24_error_bars.ipynb
+"""
+Add error bars to bar plots using `ci` or custom errors.
+"""
+
+# problem25_data_from_csv.ipynb
+"""
+Load a CSV file and create seaborn visualizations.
+"""
+
+# ---------------------
+# CHALLENGING (26–30)
+# ---------------------
+
+# problem26_timeseries_plot.ipynb
+"""
+Visualize time series data using seaborn.
+"""
+
+# problem27_custom_annotations.ipynb
+"""
+Add custom text and annotations to seaborn plots.
+"""
+
+# problem28_3d_plotting.ipynb
+"""
+Use seaborn with matplotlib for basic 3D visualizations.
+"""
+
+# problem29_real_world_dataset.ipynb
+"""
+Analyze and visualize a real-world dataset.
+"""
+
+# problem30_interactive_widgets.ipynb
+"""
+Use ipywidgets with seaborn for interactive plots.
+"""
